@@ -10,7 +10,7 @@ This is our marble racing game created in Unity version 2021.3.8f1. It has a sim
 
 ## Play the Demo
 
-You can play the demo of our game at [insert link here]
+You can play the demo of our game on our itch.io page [here](https://ghost-collision.itch.io/marble-racing-prototype)
 
 ## Install and Run
 
